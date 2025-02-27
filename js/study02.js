@@ -33,3 +33,4 @@ console.log(a)
 console.log(x)
 // console.log(b, c) Error
 // console.log(y, z) Error
+// console.log(z) Error
